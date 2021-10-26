@@ -1,0 +1,40 @@
+/**
+* @name Halloween <�
+* @version Auto Update
+* @description Created for the purpose of halloween uses and seasons! -Cone
+* @author Cone
+* @invite ????
+* @Source https://github.com/Page07/Halloween-Theme-B.D-
+* @website ???
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://discordstyles.github.io/RadialStatus/dist/RadialStatus.css');
+@import url('https://fonts.googleapis.com/css2?family=Creepster');
+:root {
+--themeColor1: #FF900DFF;
+--themeColor2: #FF6B0FFF;
+--customFont: 'Creepster';
+--homeImage: url('https://i.pinimg.com/736x/54/07/65/540765d3f65ea63beefe129082658f43.jpg');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://wallpapercave.com/wp/wp4978357.png');
+--backgroundPosition: top;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.9;
+--rs-small-spacing: 1px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 2px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #36E841FF;
+--rs-idle-color: #FA6205FF;
+--rs-dnd-color: #F00000FF;
+--rs-offline-color: #020203FF;
+--rs-streaming-color: #7C00D8FF;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
